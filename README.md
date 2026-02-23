@@ -5,18 +5,21 @@ MIssão 01:
 1. Crie um prompt simples
 2. compartilha a atividade
 
-   Imagine que a IA é como aquele Genio da Lâmpada dos filmes, ou melhor, um boneco de massinha mágico. Ele pode se transformar em absolutamente qualquer coisa, mas ele é "literal" demais. Se você pedir apenas "um bicho", ele pode fazer uma barata, quando você, na verdade, queria um cachorro.
+  
+  Atividade:
+  
+  Imagine que a IA é um daqueles quadros mágicos de desenhar (Etch A Sketch) ou uma caixa infinita de LEGO. Ela tem todas as peças e capacidades do mundo, mas não tem vontade própria.
 
-A Engenharia de Prompt é a técnica de dar as instruções certas para que a massinha tome a forma exata que você imaginou.
+A Engenharia de Prompt é como aprender a girar os botões do quadro com precisão milimétrica ou saber exatamente qual peça de LEGO pedir para o brinquedo montar o que você imaginou.
 
-Como funciona na prática?
-Em vez de dar uma ordem vaga, você aprende a ser um mestre das instruções usando três passos simples:
+Por que isso é importante?
+Se você der uma instrução genérica como "monte um carro", a IA pode te entregar desde um carrinho de rolimã até um caminhão de lixo. Já o Engenheiro de Prompt sabe dizer:
 
-1.O Pedido: "Faça um cachorro..."
+O Contexto: "Monte um carro de Fórmula 1..."
 
-2.O Detalhe: "...um Golden Retriever filhote, brincando com uma bola..."
+Os Detalhes: "...da cor vermelha, com pneus de chuva..."
 
-3.O Estilo: "...no estilo de desenho animado da Disney."
+O Formato: "...usando apenas peças técnicas e que caiba na palma da mão."
 
-Por que os calouros precisam disso?
-Saber Engenharia de Prompt é a diferença entre receber uma resposta "mais ou menos" e ter uma ferramenta poderosa que resolve problemas complexos, escreve códigos ou cria artes incríveis em segundos. É aprender a "falar a língua" da máquina para que ela entenda sua intenção, e não apenas suas palavras.
+Em resumo
+Não é apenas "conversar" com o computador. É a técnica de refinar a pergunta para que a resposta seja útil, precisa e criativa. É passar de um usuário que "tenta a sorte" para um condutor que sabe exatamente como extrair o melhor resultado da máquina.
